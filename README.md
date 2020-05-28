@@ -1,2 +1,1 @@
 # Amzux.github.io
-site
